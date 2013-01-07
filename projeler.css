@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+ #wrapper{
+   font:15px "Verdana";
+	 color:#060
+	 margin:0px;
+	 width:1200px auto;
+	 height:1000px
+	 border:auto;}
+	 .clear{
+		 clear=both}
+		 
+				 #photoright{
+					 width:500px;
+					 height:250px;
+					 border:15px
+					 size:auto;
+					 float:right;}
+		     .acıklama{
+				 font:15px "Arial";
+				 color:#006600;}
+				 #photoleft{
+					 width:500px;
+					 height:250px;
+					 float:left;}
+			  .acıklama2{
+						 font:15px "Arial";
+						 color:#006600;}
+				 
+				 
